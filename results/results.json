@@ -756,7 +756,7 @@
             "sex": {
                 "female": {
                     "date": "2024/08/03",
-                    "date_pred": null,
+                    "date_pred": "2024/07/12",
                     "finished": false,
                     "previa": [],
                     "analysis": [],
@@ -764,51 +764,51 @@
                     "analysis_en": [],
                     "prediction": {
                         "1": {
-                            "name": "",
-                            "name_en": "",
-                            "country_domain": "",
+                            "name": "BILES Simone",
+                            "name_en": "BILES Simone",
+                            "country_domain": "USA",
                             "status": 0
                         },
                         "2": {
-                            "name": "",
-                            "name_en": "",
-                            "country_domain": "",
+                            "name": "BARBOSA Jade",
+                            "name_en": "BARBOSA Jade",
+                            "country_domain": "BRA",
                             "status": 0
                         },
                         "3": {
-                            "name": "",
-                            "name_en": "",
-                            "country_domain": "",
+                            "name": "ANDRADE Rebeca",
+                            "name_en": "ANDRADE Rebeca",
+                            "country_domain": "BRA",
                             "status": 0
                         },
                         "4": {
-                            "name": "",
-                            "name_en": "",
-                            "country_domain": "",
+                            "name": "CAREY Jade",
+                            "name_en": "CAREY Jade",
+                            "country_domain": "USA",
                             "status": 0
                         },
                         "5": {
-                            "name": "",
-                            "name_en": "",
-                            "country_domain": "",
+                            "name": "IORIO Elisa",
+                            "name_en": "IORIO Elisa",
+                            "country_domain": "ITA",
                             "status": 0
                         },
                         "6": {
-                            "name": "",
-                            "name_en": "",
-                            "country_domain": "",
+                            "name": "MORENO Alexa",
+                            "name_en": "MORENO Alexa",
+                            "country_domain": "MEX",
                             "status": 0
                         },
                         "7": {
-                            "name": "",
-                            "name_en": "",
-                            "country_domain": "",
+                            "name": "OLSEN Shallon",
+                            "name_en": "OLSEN Shallon",
+                            "country_domain": "CAN",
                             "status": 0
                         },
                         "8": {
-                            "name": "",
-                            "name_en": "",
-                            "country_domain": "",
+                            "name": "BLACK Elsabeth",
+                            "name_en": "BLACK Elsabeth",
+                            "country_domain": "CAN",
                             "status": 0
                         }
                     },
