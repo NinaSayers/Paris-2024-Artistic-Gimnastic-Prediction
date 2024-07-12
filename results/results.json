@@ -1,0 +1,1719 @@
+{"gia_equ": {
+            "name": "Viga de Equilibrio",
+            "name_en": "Balance Beam",
+            "type": "single",
+            "sport": "gia",
+            "sex": {
+                "female": {
+                    "date": "2024/08/05",
+                    "date_pred": "2024/07/12",
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "ZHOU Yaqin",
+                            "name_en": "ZHOU Yaqin",
+                            "country_domain": "CHN",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "BILES Simone",
+                            "name_en": "BILES Simone",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "MANECA-VOINEA Sabrina",
+                            "name_en": "MANECA-VOINEA Sabrina",
+                            "country_domain": "ROU",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "LEE Sunisa",
+                            "name_en": "LEE Sunisa",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "SARAIVA Flavia",
+                            "name_en": "SARAIVA Flavia",
+                            "country_domain": "BRA",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "OKAMURA Mana",
+                            "name_en": "OKAMURA Mana",
+                            "country_domain": "JPN",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "WEVERS Sanne",
+                            "name_en": "WEVERS Sanne",
+                            "country_domain": "NED",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "BLACK Elsabeth",
+                            "name_en": "BLACK Elsabeth",
+                            "country_domain": "CAN",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "gia_asi": {
+            "name": "Barras Asimétricas",
+            "name_en": "Uneven Bars",
+            "type": "single",
+            "sport": "gia",
+            "sex": {
+                "female": {
+                    "date": "2024/08/03",
+                    "date_pred": "2024/07/12",
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "NEMOUR Kaylia",
+                            "name_en": "NEMOUR Kaylia",
+                            "country_domain": "ALG",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "DERWAEL Nina",
+                            "name_en": "DERWAEL Nina",
+                            "country_domain": "BEL",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "LEE Sunisa",
+                            "name_en": "LEE Sunisa",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "BILES Simone",
+                            "name_en": "BILES Simone",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "LUO Huan",
+                            "name_en": "LUO Huan",
+                            "country_domain": "CHN",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "D'AMATO Alice",
+                            "name_en": "D'AMATO Alice",
+                            "country_domain": "ITA",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "ANDRADE Rebeca",
+                            "name_en": "ANDRADE Rebeca",
+                            "country_domain": "BRA",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "DOWNIE Rebecca",
+                            "name_en": "DOWNIE Rebecca",
+                            "country_domain": "GBR",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "gia_fix": {
+            "name": "Barra Fix",
+            "name_en": "Horizontal Bar",
+            "type": "single",
+            "sport": "gia",
+            "sex": {
+                "male": {
+                    "date": "2024/08/05",
+                    "date_pred": null,
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "gia_par": {
+            "name": "Barras Paralelas",
+            "name_en": "Parallel Bars",
+            "type": "single",
+            "sport": "gia",
+            "sex": {
+                "male": {
+                    "date": "2024/08/05",
+                    "date_pred": null,
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "gia_rin": {
+            "name": "Anillas",
+            "name_en": "Rings",
+            "type": "single",
+            "sport": "gia",
+            "sex": {
+                "male": {
+                    "date": "2024/08/04",
+                    "date_pred": null,
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "gia_pom": {
+            "name": "Caballo con Arzones",
+            "name_en": "Pommel Horse",
+            "type": "single",
+            "sport": "gia",
+            "sex": {
+                "male": {
+                    "date": "2024/08/03",
+                    "date_pred": null,
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "gia_vau": {
+            "name": "Caballo de Salto",
+            "name_en": "Vault",
+            "type": "single",
+            "sport": "gia",
+            "sex": {
+                "female": {
+                    "date": "2024/08/03",
+                    "date_pred": null,
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                },
+                "male": {
+                    "date": "2024/08/04",
+                    "date_pred": null,
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "gia_flo": {
+            "name": "Ejercicio en el Suelo",
+            "name_en": "Floor Exercise",
+            "type": "single",
+            "sport": "gia",
+            "sex": {
+                "female": {
+                    "date": "2024/08/04",
+                    "date_pred": "2024/07/12",
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "BILES Simone",
+                            "name_en": "BILES Simone",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "CAREY Jade",
+                            "name_en": "CAREY Jade",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "ANDRADE Rebeca",
+                            "name_en": "ANDRADE Rebeca",
+                            "country_domain": "BRA",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "ANDREOLI Angela",
+                            "name_en": "ANDREOLI Angela",
+                            "country_domain": "ITA",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "CHILES Jordan",
+                            "name_en": "CHILES Jordan",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "LEE Sunisa",
+                            "name_en": "LEE Sunisa",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "MANECA-VOINEA Sabrina",
+                            "name_en": "MANECA-VOINEA Sabrina",
+                            "country_domain": "ROU",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "ESPOSITO Manila",
+                            "name_en": "ESPOSITO Manila",
+                            "country_domain": "ITA",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                },
+                "male": {
+                    "date": "2024/08/03",
+                    "date_pred": null,
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "gia_cci": {
+            "name": "Concurso Completo Individual",
+            "name_en": "Individual All-Around",
+            "type": "single",
+            "sport": "gia",
+            "sex": {
+                "female": {
+                    "date": "2024/08/01",
+                    "date_pred": "2024/07/12",
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "BILES Simone",
+                            "name_en": "BILES Simone",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "LEE Sunisa",
+                            "name_en": "LEE Sunisa",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "BLACK Elsabeth",
+                            "name_en": "BLACK Elsabeth",
+                            "country_domain": "CAN",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "QIU Qiyuan",
+                            "name_en": "QIU Qiyuan",
+                            "country_domain": "CHN",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "SARAIVA Flavia",
+                            "name_en": "SARAIVA Flavia",
+                            "country_domain": "BRA",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "OU Yushan",
+                            "name_en": "OU Yushan",
+                            "country_domain": "CHN",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "NEMOUR Kaylia",
+                            "name_en": "NEMOUR Kaylia",
+                            "country_domain": "ALG",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "CHILES Jordan",
+                            "name_en": "CHILES Jordan",
+                            "country_domain": "USA",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                },
+                "male": {
+                    "date": "2024/08/05",
+                    "date_pred": null,
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "gia_cct": {
+            "name": "Concurso Completo por Equipos",
+            "name_en": "Team All-Around",
+            "type": "group",
+            "sport": "gia",
+            "sex": {
+                "female": {
+                    "date": "2024/07/30",
+                    "date_pred": "2024/07/12",
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "Brasil",
+                            "name_en": "Brazil",
+                            "country_domain": "BRA",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "Gran Bretaña",
+                            "name_en": "Great Britain",
+                            "country_domain": "GBR",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "Australia",
+                            "name_en": "Australia",
+                            "country_domain": "AUS",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "Estados Unidos",
+                            "name_en": "United States of America",
+                            "country_domain": "USA",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "Países Bajos",
+                            "name_en": "Netherlands",
+                            "country_domain": "NED",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "Italia",
+                            "name_en": "Italy",
+                            "country_domain": "ITA",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "Canadá",
+                            "name_en": "Canada",
+                            "country_domain": "CAN",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "Rumania",
+                            "name_en": "Romania",
+                            "country_domain": "ROU",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                },
+                "male": {
+                    "date": "2024/07/29",
+                    "date_pred": null,
+                    "finished": false,
+                    "previa": [],
+                    "analysis": [],
+                    "previa_en": [],
+                    "analysis_en": [],
+                    "prediction": {
+                        "1": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "2": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "3": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "4": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "5": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "6": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "7": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        },
+                        "8": {
+                            "name": "",
+                            "name_en": "",
+                            "country_domain": "",
+                            "status": 0
+                        }
+                    },
+                    "result": {
+                        "1": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "3": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "4": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "5": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "6": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "7": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ],
+                        "8": [
+                            {
+                                "name": "",
+                                "name_en": "",
+                                "country_domain": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
